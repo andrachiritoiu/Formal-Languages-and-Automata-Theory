@@ -1,7 +1,4 @@
 # Tema-lab1
-# Chirițoiu Andra-Florentina, grupa 134
-from logging import NullHandler
-
 
 #1.Construiți un DFA care recunoaște limbajul L = { w | w conține un număr par de 0-uri și un număr impar de 1-uri }.
 
