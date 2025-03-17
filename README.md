@@ -1,0 +1,1 @@
+The "Formal Languages and Automata" (LFA) course at the University of Bucharest covers topics like formal grammars, finite automata, and Turing machines, essential for understanding programming languages and compilers.
