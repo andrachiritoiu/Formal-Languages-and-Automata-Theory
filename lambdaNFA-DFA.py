@@ -1,6 +1,3 @@
-# Tema-lab2
-# Chirițoiu Andra-Florentina, grupa 134
-
 # transformare din LAMBDA NFA in DFA -> cod(fara lambda-inchidereile date)
 class NFA:
     def __init__(self):
