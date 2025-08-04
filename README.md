@@ -1,4 +1,4 @@
-This repository includes several small Python scripts related to automata theory and regular languages. The main topics covered are:
+This repository includes several Python scripts related to automata theory and regular languages. The main topics covered are:
 
 - DFA (Deterministic Finite Automata)
 - NFA (Non-deterministic Finite Automata)
